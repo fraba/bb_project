@@ -23,3 +23,5 @@ The script should be run in this order:
 
 
 Hopefully further development will include some dynamic modelling of the network. I want to answer the following question: Is there any chance to predict who will die during each season based on network positions?
+
+You find an interactive visualisation of the social graph here: http://www.francescobailo.net/apps/the-social-network-of-breaking-bad/
